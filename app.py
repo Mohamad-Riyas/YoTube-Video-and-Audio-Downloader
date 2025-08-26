@@ -62,7 +62,7 @@ def download_video():
 # --- GUI Setup ---
 root = tk.Tk()
 root.title("🎬 YouTube Downloader Pro")
-root.geometry("500x350")
+root.geometry("1000x500")
 root.resizable(False, False)
 root.configure(bg="#1e1e2f")
 
